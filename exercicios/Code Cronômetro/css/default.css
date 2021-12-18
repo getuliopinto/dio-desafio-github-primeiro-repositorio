@@ -1,0 +1,28 @@
+
+html {
+  background-color: gray;
+}
+
+h1 {
+  color: rgb(241, 166, 4); /* define a cor da fonte para vermelho */
+  text-align: center;
+}
+
+#contador {
+  font-size: 100px; /* define o tamanho da fonte */
+  text-align: center;
+}
+
+.botoes {
+  text-align: center;
+  
+}
+
+#btn-iniciar {
+  border-radius: 10px;
+}
+#btn-zerar {
+  border-radius: 10px;
+}
+
+
